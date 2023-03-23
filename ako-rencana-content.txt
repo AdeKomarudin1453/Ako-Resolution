@@ -4,6 +4,7 @@ RENCANA KONTEN AKO
   * ES6
   * Framework
     - Vue
+    - React
 - Struktur Data Dasar
 - PHP Frameworks
   * Laravel
